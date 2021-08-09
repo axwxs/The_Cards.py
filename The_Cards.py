@@ -32,15 +32,7 @@ class Player:
     def __init__(self):
         pass
 
-#
-# card_1 = Card("Spades", "Ace", 13)
-# card_1.show()
-#
-# d = ["Ace", "King", "Queen", "Jack", "10", "9", "8", "7", "6", "5", "4", "3", "2"]
-#
-# d.reverse()
-#
-# print(d)
+
 
 deck = Deck()
 deck.show()
